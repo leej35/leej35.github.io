@@ -1,26 +1,26 @@
 
 # The name of your website.
-name: Holo Alfa
+name: Jeongmin Lee
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: Jeongmin Lee, PhD student at University of Pittsburgh. Working on neural networks models for time-series data.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: I am a PhD student in Department of Computer Science at University of Pittsburgh. <br> My research interests are in machine learning. Currently I am working on developing new methods in Recurrent Neural Networks and lower-dimensional embeddings for predicting discrete events in time series data. My research advisor is <a href="http://cs.pitt.edu/~milos">Dr. Milos Hauskrecht</a>.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: Jeongmin # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: zzzzz@zzzzz.com # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
   info:
 
-url: http://localhost
+url: http://jeongminlee.com
 baseurl: ""
 
 # language attribute in <html> element.
@@ -39,7 +39,7 @@ display-social-icons: false
 # If you want social links to open in a new tab, set this as true
 social-icons-open-newtab: true
 
-footer-text: This is the footer.<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
+footer-text: (c) Jeongmin Lee / theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
@@ -64,7 +64,7 @@ text-color: 0, 0, 0 # Original: 0, 0, 0
 background-color: 255, 255, 255 # Original: 255, 255, 255
 
 display-author-post-page: true
-display-author-front-page: true
+display-author-front-page: false
 
 # http://alanwsmith.com/jekyll-liquid-date-formatting-examples
 date_format: "%b %-d, %Y"
