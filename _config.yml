@@ -8,7 +8,7 @@ description:
   meta: Jeongmin Lee, PhD student at University of Pittsburgh. Working on neural networks models for time-series data.
 
   # Description of your site. This will show up on the front page.
-  subtitle: I am a PhD student in Department of Computer Science at University of Pittsburgh. <br> My research interests are in machine learning. Currently I am working on developing new methods in Recurrent Neural Networks and lower-dimensional embeddings for predicting discrete events in time series data. My research advisor is <a href="http://cs.pitt.edu/~milos">Dr. Milos Hauskrecht</a>.
+  # subtitle: I am a PhD student in Department of Computer Science at University of Pittsburgh. My research interests are in machine learning. Currently I am working on developing new methods in Recurrent Neural Networks and lower-dimensional embeddings for predicting discrete events in time series data. My research advisor is <a href="http://cs.pitt.edu/~milos">Dr. Milos Hauskrecht</a>.
 
 author:
   name: Jeongmin # Change this!
@@ -51,7 +51,7 @@ theme-color-attr: "#00f0ff"
 ms-tile-color: "#00f0ff"
 
 # Color used throughout the theme. Format: R, G, B.
-theme-color: 0, 240, 255 # Original: 0, 240, 255
+theme-color: 191, 191, 191 # Original: 0, 240, 255
 
 # Text color used throughout the theme. Format: R, G, B.
 text-color: 0, 0, 0 # Original: 0, 0, 0
@@ -63,7 +63,7 @@ text-color: 0, 0, 0 # Original: 0, 0, 0
 #       http://www.colorzilla.com/gradient-editor/#ffffff+0,ffffff+100&0+0,1+100
 background-color: 255, 255, 255 # Original: 255, 255, 255
 
-display-author-post-page: true
+display-author-post-page: false
 display-author-front-page: false
 
 # http://alanwsmith.com/jekyll-liquid-date-formatting-examples

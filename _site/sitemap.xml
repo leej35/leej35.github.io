@@ -2,19 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://localhost/2015/07/22/theme-introduction/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost/2013/03/15/guest-posts/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost/2013/02/10/code-snippets/</loc>
-    </url>
-    
-    <url>
-        <loc>http://localhost/2012/01/18/hello-world/</loc>
+        <loc>http://jeongminlee.com/2013/02/10/code-snippets/</loc>
     </url>
     
 
@@ -23,7 +11,7 @@
     
     
     <url>
-        <loc>http://localhost/about/</loc>
+        <loc>http://jeongminlee.com/about/</loc>
     </url>
     
     
@@ -33,7 +21,7 @@
     
     
     <url>
-        <loc>http://localhost/archive/</loc>
+        <loc>http://jeongminlee.com/archive/</loc>
     </url>
     
     
@@ -43,19 +31,7 @@
     
     
     <url>
-        <loc>http://localhost/contact/</loc>
-    </url>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    <url>
-        <loc>http://localhost/</loc>
+        <loc>http://jeongminlee.com/contact/</loc>
     </url>
     
     
@@ -66,10 +42,8 @@
     
     
     
-    
-    
     <url>
-        <loc>http://localhost/thanks/</loc>
+        <loc>http://jeongminlee.com/</loc>
     </url>
     
     
@@ -78,8 +52,12 @@
     
     
     
+    
+    
+    
+    
     <url>
-        <loc>http://localhost/page-2/</loc>
+        <loc>http://jeongminlee.com/thanks/</loc>
     </url>
     
     

@@ -9,6 +9,7 @@ My research interests are in machine learning. Currently I am working on develop
 My research advisor is [Dr. Milos Hauskrecht](http://cs.pitt.edu/~jlee).
 
 
-![me]({{ site.baseurl }}/img/me.jpg) 
+
+<img src="/img/me.jpg">
 
 ---
