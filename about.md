@@ -3,8 +3,12 @@ layout: page
 title: About
 ---
 
-Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. Created for free and for fun by Stijn. Get the latest version at the [Github repository](https://github.com/steinvc/holo-alfa).
+I am a PhD student in Department of Computer Science at University of Pittsburgh.
+
+My research interests are in machine learning. Currently I am working on developing new methods in Recurrent Neural Networks and lower-dimensional embeddings for predicting discrete events in time series data. 
+My research advisor is [Dr. Milos Hauskrecht](http://cs.pitt.edu/~jlee).
+
+
+![me]({{ site.baseurl }}/img/forest.jpg) 
 
 ---
-
-Holo Alfa is open source, [MIT license](http://opensource.org/licenses/MIT).
