@@ -1,2 +1,0 @@
-# jeongminlee.com
-My website.
